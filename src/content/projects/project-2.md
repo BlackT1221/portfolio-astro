@@ -2,13 +2,13 @@
 title: 'Motos API - DJango'
 description: 'Aplicación Django para gestionar una base de datos de bicicletas, incluyendo funcionalidades para crear, editar, borrar y ver bicicletas.'
 image:
-    url: '/Motos1.png'
+    url: '/Motos1.webp'
     alt: 'GitHub wallpaper'
 worksImage1:
-    url: '/Motos2.png'
+    url: '/Motos2.webp'
     alt: 'first image of your project.'
 worksImage2:
-    url: '/Motos3.png'
+    url: '/Motos3.webp'
     alt: 'second image of your project.'
 platform: Web
 stack: DJango, Html, CSS, Bootstrap

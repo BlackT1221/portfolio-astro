@@ -3,7 +3,7 @@ title: 'Horarios CBA'
 description: 'El proyecto es un sistema de gestión de horarios desarrollado para el Centro de
 Biotecnología Agropecuaria (CBA) del SENA.'
 image:
-    url: '/Horarios1.jpg'
+    url: '/Horarios1.webp'
     alt: 'GitHub wallpaper'
 worksImage1:
     url: '/image-1.webp'

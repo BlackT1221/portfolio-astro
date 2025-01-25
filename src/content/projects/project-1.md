@@ -2,13 +2,13 @@
 title: 'Stroop Effect App'
 description: 'Esta aplicación de Flutter mide el tiempo de reacción mediante el efecto Stroop.'
 image:
-    url: '/StroopEffect1.png'
+    url: '/StroopEffect1.webp'
     alt: 'Stroop Effect App welcome'
 worksImage1:
-    url: '/StroopEffect2.png'
+    url: '/StroopEffect2.webp'
     alt: 'first image of your project.'
 worksImage2:
-    url: '/StroopEffect3.png'
+    url: '/StroopEffect3.webp'
     alt: 'second image of your project.'
 platform: Web, Windows
 stack: Astro, JavaScript

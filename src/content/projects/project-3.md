@@ -2,7 +2,7 @@
 title: 'Tienda - CBA'
 description: 'Este proyecto busca mejorar la experiencia de compra y venta en el Centro de Biotecnología Agropecuaria de Mosquera, agilizando y optimizando los procesos.'
 image:
-    url: '/Tienda1.png'
+    url: '/Tienda1.webp'
     alt: 'GitHub wallpaper'
 worksImage1:
     url: '/image-1.webp'
