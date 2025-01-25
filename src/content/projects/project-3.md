@@ -1,8 +1,8 @@
 ---
 title: 'Tienda - CBA'
-description: 'Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci'
+description: 'Este proyecto busca mejorar la experiencia de compra y venta en el Centro de Biotecnología Agropecuaria de Mosquera, agilizando y optimizando los procesos.'
 image:
-    url: '/GitHub.webp'
+    url: '/Tienda1.png'
     alt: 'GitHub wallpaper'
 worksImage1:
     url: '/image-1.webp'
@@ -10,10 +10,10 @@ worksImage1:
 worksImage2:
     url: '/image-2.webp'
     alt: 'second image of your project.'
-platform: Web
-stack: Astro, JavaScript
-website: https://astro-milky-way.netlify.app/
-github: https://github.com/ttomczak3/Milky-Way
+platform: Web, Movil
+stack: Flutter, DJango
+website: https://cbatienda.vercel.app/
+github: https://github.com/ProyectoCBA72/TiendaCBA
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras faucibus a tortor at molestie. Sed pellentesque leo auctor, auctor lorem nec, venenatis risus. Vivamus commodo ipsum vitae orci finibus, vel porta nunc viverra. In hac habitasse platea dictumst. Nunc pretium, ligula ultricies consequat sollicitudin, enim ex ullamcorper nisl.
+Este proyecto busca mejorar la experiencia de compra y venta en el Centro de Biotecnología Agropecuaria de Mosquera, agilizando y optimizando los procesos. Permite gestionar inventarios, procesar pedidos y realizar transacciones de manera eficiente. Los usuarios pueden consultar estadísticas de ventas, revisar el stock y crear o editar categorías, métodos de pago y anuncios. Además, ofrece comunicación directa entre clientes y vendedores mediante un chat en línea. Utiliza herramientas tecnológicas avanzadas para garantizar la satisfacción de los clientes y la eficiencia de los administradores.

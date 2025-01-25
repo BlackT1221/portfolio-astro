@@ -160,6 +160,7 @@ small, li {
     line-height: 1.4;
     border-radius: 8px;
     color: var(--text);
+    transition: 0.2s;
 }
 
 .card__img {
@@ -184,6 +185,7 @@ small, li {
 
 .card__link:hover {
     transform: scale(1.05);
+    transition: 0.2s;
 }
 
 .link-card-grid {
@@ -380,8 +382,8 @@ html.light {
     }
 
     .skills__img {
-        height: 30px;
-        width: 30px;
+        height: 50px;
+        width: 50px;
         margin: 8px 1px;
     }
 

@@ -1,8 +1,9 @@
 ---
 title: 'Horarios CBA'
-description: 'Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci'
+description: 'El proyecto es un sistema de gestión de horarios desarrollado para el Centro de
+Biotecnología Agropecuaria (CBA) del SENA.'
 image:
-    url: '/GitHub.webp'
+    url: '/Horarios1.jpg'
     alt: 'GitHub wallpaper'
 worksImage1:
     url: '/image-1.webp'
@@ -10,10 +11,15 @@ worksImage1:
 worksImage2:
     url: '/image-2.webp'
     alt: 'second image of your project.'
-platform: Web
-stack: Astro, JavaScript
-website: https://astro-milky-way.netlify.app/
-github: https://github.com/ttomczak3/Milky-Way
+platform: Web, Movil
+stack: Flutter, DJango
+website: https://github.com/horariosCBA/horarios_frontend
+github: https://github.com/horariosCBA/horarios_frontend
 ---
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras faucibus a tortor at molestie. Sed pellentesque leo auctor, auctor lorem nec, venenatis risus. Vivamus commodo ipsum vitae orci finibus, vel porta nunc viverra. In hac habitasse platea dictumst. Nunc pretium, ligula ultricies consequat sollicitudin, enim ex ullamcorper nisl.
+El proyecto es un sistema de gestión de horarios desarrollado para el Centro de
+Biotecnología Agropecuaria (CBA) del SENA. Su principal objetivo es automatizar la
+asignación de horarios para las chas de los programas de formación, integrándolos con
+las programaciones de los instructores. Esto busca reducir el esfuerzo manual de los
+coordinadores en la generación de horarios, optimizando el proceso y asegurando que se
+respeten los criterios denidos por el programa, la jornada, el área y la línea de los
+instructores.
