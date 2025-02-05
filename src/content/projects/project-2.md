@@ -1,19 +1,19 @@
 ---
-title: 'Motos API - DJango'
-description: 'Aplicación Django para gestionar una base de datos de bicicletas, incluyendo funcionalidades para crear, editar, borrar y ver bicicletas.'
+title: 'AquaWatt'
+description: 'AquaWatt es una aplicación web y móvil diseñada para ayudarte a monitorear y gestionar el consumo de agua y electricidad en tu hogar.'
 image:
-    url: '/Motos1.webp'
+    url: '/AW1.webp'
     alt: 'GitHub wallpaper'
 worksImage1:
-    url: '/Motos2.webp'
+    url: '/AW2.webp'
     alt: 'first image of your project.'
 worksImage2:
-    url: '/Motos3.webp'
+    url: '/AW3.webp'
     alt: 'second image of your project.'
 platform: Web
-stack: DJango, Html, CSS, Bootstrap
-website: https://github.com/BlackT1221/App_Motorcycles
-github: https://github.com/BlackT1221/App_Motorcycles
+stack: Astro, Tailwind, Html, CSS, JavaScript 
+website: https://aquawatt-9daf8.web.app/
+github: https://github.com/BlackT1221/AquaWatt-webApp
 ---
 
-Aplicación Django para gestionar una base de datos de bicicletas, incluyendo funcionalidades para crear, editar, borrar y ver bicicletas. Aplicando conocimentos en DJango Rest Framework (DRF) para la creación y consumo de un API Rest desde cero.
+AquaWatt es una aplicación móvil diseñada para ayudarte a monitorear y gestionar el consumo de agua y electricidad en tu hogar. Nuestra misión es fomentar la conciencia ambiental y promover prácticas sostenibles al proporcionarte datos precisos y herramientas para reducir tu huella ecológica.
