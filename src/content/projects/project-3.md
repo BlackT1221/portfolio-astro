@@ -5,10 +5,10 @@ image:
     url: '/Tienda1.webp'
     alt: 'GitHub wallpaper'
 worksImage1:
-    url: '/image-1.webp'
+    url: '/Tienda2.webp'
     alt: 'first image of your project.'
 worksImage2:
-    url: '/image-2.webp'
+    url: '/Tienda3.webp'
     alt: 'second image of your project.'
 platform: Web, Movil
 stack: Flutter, DJango
